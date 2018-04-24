@@ -9,7 +9,7 @@
 **Link to work:** [Wherefore art thou](https://www.freecodecamp.org/challenges/wherefore-art-thou)
 
 
-### Day 0: April 23, 2018
+### Day 1: April 23, 2018
 
 **Today's Progress:** I tried to complete the Pig Latin function in FCC.
 
