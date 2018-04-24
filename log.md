@@ -11,8 +11,8 @@
 
 ### Day 0: April 23, 2018
 
-**Today's Progress:** I tried to complete the Pyg Latin function in FCC.
+**Today's Progress:** I tried to complete the Pig Latin function in FCC.
 
 **Thoughts:** I know I can do this in Python, because I did it before, but I need to learn more about Regular Expressions to complete this function in JavaScript.
 
-**Link to work:**
+**Link to work:** [Pig Latin](https://www.freecodecamp.org/challenges/wherefore-art-thou)
