@@ -22,4 +22,4 @@
 
 **Today's Progress:** Pig Latin function is almost finished
 
-**Thoughts:** I spent a lot of time trying to understand Regular Expressions, the documentation for this one is rather extensive but I managed to understand the basics, using it in the function saved me a lot of time code and also the code looks simpler when using them
+**Thoughts:** I spent a lot of time trying to understand Regular Expressions, the documentation for this one is rather extensive but I managed to understand the basics, using it in the function saved me a lot of time coding and also the code looks simpler when using them
