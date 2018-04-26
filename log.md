@@ -1,3 +1,10 @@
+<!--- Template
+### Day 3: April 24, 2018
+**Today's Progress:**
+**Thoughts:**
+**Links:** 
+-->
+
 # 100 Days Of Code - Log
 
 ### Day 0: April 22, 2018
@@ -23,3 +30,12 @@
 **Today's Progress:** Pig Latin function is almost finished
 
 **Thoughts:** I spent a lot of time trying to understand Regular Expressions, the documentation for this one is rather extensive but I managed to understand the basics, using it in the function saved me a lot of time coding and also the code looks simpler when using them.
+
+
+### Day 3: April 24, 2018
+
+**Today's Progress:** Finally finished Pig Latin function, and 3 more.
+
+**Thoughts:** Pig Latin function took me a while, but I finished it. The next functions where a little bit easier.
+
+**Links:** [DNA Pairing](https://www.freecodecamp.org/challenges/dna-pairing), [Missing letters](https://www.freecodecamp.org/challenges/missing-letters), [Boo who](https://www.freecodecamp.org/challenges/boo-who).
