@@ -39,3 +39,12 @@
 **Thoughts:** Pig Latin function took me a while, but I finished it. The next functions where a little bit easier.
 
 **Links:** [DNA Pairing](https://www.freecodecamp.org/challenges/dna-pairing), [Missing letters](https://www.freecodecamp.org/challenges/missing-letters), [Boo who](https://www.freecodecamp.org/challenges/boo-who).
+
+
+### Day 4: April 26, 2018
+
+**Today's Progress:** Finished the Sorted Union function from FCC.
+
+**Thoughts:** This was slightly more difficult than the other ones, I barely got it to work, the code is a mess but it works.
+
+**Links:** [Sorted Union](https://www.freecodecamp.org/challenges/sorted-union)
