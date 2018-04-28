@@ -2,8 +2,8 @@
 ### Day 3: April 24, 2018
 **Today's Progress:**
 **Thoughts:**
-**Links:** 
--->
+**Links:**
+--> 
 
 # 100 Days Of Code - Log
 
@@ -48,3 +48,10 @@
 **Thoughts:** This was slightly more difficult than the other ones, I barely got it to work, the code is a mess but it works.
 
 **Links:** [Sorted Union](https://www.freecodecamp.org/challenges/sorted-union)
+
+### Day 5: April 27, 2018
+**Today's Progress:** Finished another algorithm on FCC.
+
+**Thoughts:** Being familiar with RegExp helped me a lot in this one and made it really easy. I've been working on the next algorithm which also uses regular expressions but its a little bit trickier, I'll try to complete it tomorrow.
+
+**Links:** [Conver HTML Entities](https://www.freecodecamp.org/challenges/convert-html-entities), [Spinal Tap Case](https://www.freecodecamp.org/challenges/spinal-tap-case).
