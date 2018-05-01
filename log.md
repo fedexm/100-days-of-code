@@ -70,3 +70,11 @@
 **Thoughts:** Well, I've already done this function in Python, is one of the first ones they make you do when you just start learning Python in Codecademy and it was pretty easy, but in Javascript seems to be a little bit harder for me. This would be a lot easier if I knew more about math.
 
 **Links:**[Sum all primes](https://www.freecodecamp.org/challenges/sum-all-primes)
+
+
+### Day 8: May 1, 2018
+**Today's Progress:** The Sum All Primes functino is finished!
+
+**Thoughts:** Took me a while but I finished it, there are a lot of lines of code in this function but the other ways to check for prime numbers were too complex for me.
+
+**Link:** [Sum All Primes](https://www.freecodecamp.org/challenges/sum-all-primes)
