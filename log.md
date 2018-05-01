@@ -55,3 +55,18 @@
 **Thoughts:** Being familiar with RegExp helped me a lot in this one and made it really easy. I've been working on the next algorithm which also uses regular expressions but its a little bit trickier, I'll try to complete it tomorrow.
 
 **Links:** [Conver HTML Entities](https://www.freecodecamp.org/challenges/convert-html-entities), [Spinal Tap Case](https://www.freecodecamp.org/challenges/spinal-tap-case).
+
+### Day 6: April 29, 2018
+**Today's Progress:** Completed another algorithm in FCC.
+
+**Thoughts:** Took me a while but I finished it!
+
+**Links:**[Sum All Fibonacci Numbers](https://www.freecodecamp.org/challenges/sum-all-odd-fibonacci-numbers)
+
+
+### Day 7: April 30, 2018
+**Today's Progress:** The next function is about prime numbers, I havent finished it yet.
+
+**Thoughts:** Well, I've already done this function in Python, is one of the first ones they make you do when you just start learning Python in Codecademy and it was pretty easy, but in Javascript seems to be a little bit harder for me. This would be a lot easier if I knew more about math.
+
+**Links:**[Sum all primes](https://www.freecodecamp.org/challenges/sum-all-primes)
