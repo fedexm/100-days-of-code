@@ -73,8 +73,23 @@
 
 
 ### Day 8: May 1, 2018
-**Today's Progress:** The Sum All Primes functino is finished!
+**Today's Progress:** The Sum All Primes function is finished!
 
 **Thoughts:** Took me a while but I finished it, there are a lot of lines of code in this function but the other ways to check for prime numbers were too complex for me.
 
 **Link:** [Sum All Primes](https://www.freecodecamp.org/challenges/sum-all-primes)
+
+### Day 9: May 2, 2018
+
+**Today's Progress:** Practiced a bit with some algorithms in Hackerrank
+
+**Thoughts:** I didnt learn anything new today but I practiced a bit with javascript
+
+**Links:** [Hackerrank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+
+### Day 10: May 3, 2018
+**Today's Progress:** Today I learned about Error Handling
+
+**Thoughts:** I've been using FreeCodeCamp and Codecademy for a while and this is the first time I hear about this subject, I stumbled upon it on Hackerrank.
+
+**Links:** [Javascript topics](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/topics), [Try, catch, finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)
