@@ -103,3 +103,11 @@
 **Thoughts:** I understand a little bit more about Error handling now, I think its going to be useful when debugging. I also finished another JS exercise. I need to go back to write some code in Python, its been a week since the last time I used it and im forgetting how to do some of the stuff.
 
 **Links:** [Throw](https://www.hackerrank.com/challenges/js10-throw), [Warmup: Plus Minus](https://www.hackerrank.com/challenges/plus-minus)
+
+
+### Day 12: May 5, 2018
+**Today's Progress:** Learned to use Regular Expresions on MySQL!
+
+**Thoughts:** I was planning on getting back to python but I ended up trying to use RegExp on MySQL. Using them saved me a lot of time (again)
+
+**Links:** [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem), [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-12/problem), [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)
