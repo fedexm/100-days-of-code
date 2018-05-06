@@ -110,4 +110,4 @@
 
 **Thoughts:** I was planning on getting back to python but I ended up trying to use RegExp on MySQL. Using them saved me a lot of time (again)
 
-**Links:** [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem), [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-12/problem), [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)
+**Links:** [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem), [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem), [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem), [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)
