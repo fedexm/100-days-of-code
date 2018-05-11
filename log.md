@@ -111,3 +111,30 @@
 **Thoughts:** I was planning on getting back to python but I ended up trying to use RegExp on MySQL. Using them saved me a lot of time (again)
 
 **Links:** [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem), [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem), [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem), [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)
+
+
+### Day 13: May 6, 2018
+
+**Today's Progress:** More SQL
+
+**Thoughts:** I completed another exercice for MySQL on Hackerrank, at first I thought this was a little bit difficult but it ended up being rather easy
+
+**Links:** [More than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)
+
+
+### Day 14: May 7, 2018
+
+**Today's Progress:** Completed 2 javascript functions
+
+**Thoughts:** I've completed 2 functions, they were object related functions, I don't have much experience with objects so I couldn't complete the third functions since it is a little bit harder. 
+
+**Links:**[Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements), [JS Objects](https://www.hackerrank.com/challenges/js10-objects)
+
+
+### Day 15: May 8, 2018
+
+**Today's Progress:** Tried to complete the last FCC exercice I tried last time.
+
+**Thoughts:** I can't find a way to complete this function, I've tried a bunch of stuff but I couln't get the result I wanted. I'll need to check this one later
+
+**Links:** [Smallest common multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
