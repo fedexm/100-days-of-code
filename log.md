@@ -138,3 +138,11 @@
 **Thoughts:** I can't find a way to complete this function, I've tried a bunch of stuff but I couln't get the result I wanted. I'll need to check this one later
 
 **Links:** [Smallest common multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
+
+
+### Day 16: May 9, 2018
+**Today's Progress:** Practiced with Objects on JS
+
+**Thoughts:** I know a little bit about how objects work in JS but I never worked with them in functions, managed to complete this function but I have to practice a little bit more with objects.
+
+**Links:** [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects).
