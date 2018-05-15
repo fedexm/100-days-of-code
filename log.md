@@ -146,3 +146,11 @@
 **Thoughts:** I know a little bit about how objects work in JS but I never worked with them in functions, managed to complete this function but I have to practice a little bit more with objects.
 
 **Links:** [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects).
+
+### Day 17: May 10, 2018
+
+**Today's Progress:** Practiced a bit with JS Classes.
+
+**Thoughts:** This is a little bit confusing but its not hard, I just have to practice a little bit more
+
+**Links:** [Classes](https://www.hackerrank.com/challenges/js10-class)
