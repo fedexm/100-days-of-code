@@ -147,6 +147,7 @@
 
 **Links:** [Count Objects](https://www.hackerrank.com/challenges/js10-count-objects).
 
+
 ### Day 17: May 10, 2018
 
 **Today's Progress:** Practiced a bit with JS Classes.
@@ -154,3 +155,20 @@
 **Thoughts:** This is a little bit confusing but its not hard, I just have to practice a little bit more
 
 **Links:** [Classes](https://www.hackerrank.com/challenges/js10-class)
+
+
+### Day 18: May 11, 2018
+**Today's Progress:** Completed the Smallest common multiple function in FCC
+
+**Thoughts:** I've been strugling with this one for the last week and I finally got it working. After this one, I did the next ones, they were way easier
+
+**Links:** [Smallest Common Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple), [Finders Keepers](https://www.freecodecamp.org/challenges/finders-keepers), [Drop It](https://www.freecodecamp.org/challenges/drop-it).
+
+
+### Day 19: May 12, 2018
+
+**Today's Progress:** More practice with JS
+
+**Thoughts:** I came back to a Project Euler problem I was trying to solve back when I was practicing with Python, I couldnt solve it at the moment because I didnt get the hang of how HackerRank works at that time, now that Im more familiar with the environment I came back and solved it.
+
+**Links:** [Project Euler #1](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem)
