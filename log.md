@@ -172,3 +172,29 @@
 **Thoughts:** I came back to a Project Euler problem I was trying to solve back when I was practicing with Python, I couldnt solve it at the moment because I didnt get the hang of how HackerRank works at that time, now that Im more familiar with the environment I came back and solved it.
 
 **Links:** [Project Euler #1](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem)
+
+
+### Day 20: May 13, 2018
+
+**Today's Progress:** Practiced with nested arrays in JS.
+
+**Thoughts:** This problem wasnt hard but it was a little bit tricky, took me some tries.
+
+**Links:**[Steamroller](https://www.freecodecamp.org/challenges/steamroller)
+
+
+### Day 21: May 14, 2018
+
+**Today's Progress:** Completed 2 more problems on FCC.
+
+**Thoughts:** These 2 were easy, mostly because I have already done some excercises with base-2 numeral system on Codecademy. Im almost at the end of the Intermediate Algorithm Scripting course on FCC, one more problem to go.
+
+**Links:** [Binary Agents](https://www.freecodecamp.org/challenges/binary-agents), [Everything be true](https://www.freecodecamp.org/challenges/everything-be-true).
+
+
+### Day 22: May 15, 2018
+**Today's Progress:** Learned about Closure.
+
+**Thoughts:** The documentation for this one was rather extensive, I couldnt get the function working, Ill try again tomorrow.
+
+**Links:**[Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
