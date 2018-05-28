@@ -200,7 +200,7 @@
 **Links:**[Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
 
 
-### Day 23: April 16, 2018
+### Day 23:  May 16, 2018
 
 **Today's Progress:** Learned about Arrow Functions
 
