@@ -198,3 +198,13 @@
 **Thoughts:** The documentation for this one was rather extensive, I couldnt get the function working, Ill try again tomorrow.
 
 **Links:**[Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
+
+
+### Day 23: April 16, 2018
+
+**Today's Progress:** Learned about Arrow Functions
+
+**Thoughts:** I've always seen arrow functions in examples but I never used them because I didnt quite know the syntax, I know a little bit more about them now.
+
+**Links:**[Arrow functions](https://www.hackerrank.com/challenges/js10-arrows)
+
